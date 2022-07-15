@@ -16,9 +16,9 @@ Data format	Primary data? JPG Files (images)
 
 Secondary data: JSON Code & Annotated image files
 
-Description of data collection	The images have been collected Using Infrared Day/Night Camera.
+Description of data collection:	The images have been collected Using Infrared Day/Night Camera.
 
-Data source location	City/Town/Region: Srikakulam, Andhra Pradesh
+Data source location:	City/Town/Region: Srikakulam, Andhra Pradesh
 
 Country: India
 
